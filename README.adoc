@@ -1,0 +1,28 @@
+== Install GraalVM
+
+https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#_linux_and_macos[spring-native]
+
+```bash
+sdk install java 22.0.0.2.r11-grl
+```
+
+== Build CLI
+
+```bash
+mvn -Pnative -DskipTests clean package
+```
+
+
+
+== run CLI
+
+```bash
+cd target
+./shell
+
+./shell
+ (unknown) > login --username c3smonkey --password pwd
+c3smonkey >
+
+```
+
