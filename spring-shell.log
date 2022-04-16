@@ -1,0 +1,19 @@
+1650119655972:clear
+1650119669113:login --password pwd --username mw
+1650119677525:logout
+1650119698672:exit
+1650122418169:logout
+1650122425227:login
+1650122429441:login --password pwd --username mw
+1650122433304:logout
+1650122435833:exit
+1650122693215:login --password pwd --username mw
+1650122698921:exit
+1650122773472:clear
+1650122794498:login
+1650122813585:login --username m2 --password 22
+1650124551917:exit
+1650124645376:login --username m2 --password 22
+1650124769205:exit
+1650125180374:login --username m2 --password 22
+1650125417954:exit
